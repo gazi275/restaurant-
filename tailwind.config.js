@@ -7,6 +7,9 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      display: ["Cinzel", "serif"],
+    },
   },
  plugins: [
     
